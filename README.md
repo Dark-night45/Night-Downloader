@@ -9,7 +9,7 @@
 ### How can use ?
 Just go to Releases and choose last version, then download _"Night Downloader (zip)"_ and extract it.
 now just run "Night Downloader.exe"
-##### Console version :
+#### Console version :
 Download _"Night Downloader - Console (zip)"_ and extract it.
 now run "Night Downloader.application" and install.
 
