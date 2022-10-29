@@ -5,7 +5,7 @@ A clear and concise description of what the bug is.
 Somescreen shot of bug to better support
 
 **System Info:**
- - OS: : 
+ - OS : 
  - Version : 
 
 **Additional context**
